@@ -1,0 +1,17 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "message": "We're upgrading 🚧"
+  },
+  "native": {
+    "version": "2.0.0",
+    "minRequiredVersion": "1.0.0",
+    "forceUpdate": false,
+    "updateUrl": "YOUR-NEW-APK-URL-AFTER-BUILD"
+  },
+  "ota": {
+    "version": "2.0.0",
+    "force": false,
+    "message": "Major update with new features"
+  }
+}
