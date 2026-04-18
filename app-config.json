@@ -5,9 +5,9 @@
   },
   "native": {
     "version": "2.0.0",
-    "minRequiredVersion": "1.0.0",
+    "minRequiredVersion": "2.0.0",
     "forceUpdate": false,
-    "updateUrl": "YOUR-NEW-APK-URL-AFTER-BUILD"
+    "updateUrl": "https://expo.dev/accounts/itsishandev/projects/sonic/builds/5818e2c7-5c34-40a6-b5eb-fc9ea6193e1b"
   },
   "ota": {
     "version": "2.0.0",
