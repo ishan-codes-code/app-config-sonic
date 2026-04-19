@@ -1,7 +1,7 @@
 {
   "maintenance": {
-    "enabled": true,
-    "message": "We're upgrading 🚧 by aditya"
+    "enabled": false,
+    "message": "We're upgrading 🚧"
   },
   "native": {
     "version": "2.0.0",
