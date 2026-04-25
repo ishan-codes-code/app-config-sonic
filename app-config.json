@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "message": "We're upgrading 🚧"
   },
   "native": {
@@ -10,8 +10,8 @@
     "updateUrl": "https://expo.dev/artifacts/eas/f91n7BSyUwytW5pibGsuoh.apk"
   },
   "ota": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "force": false,
-    "message": "Major update with new features"
+    "message": "Optimized the player drawer UX and robust queue auto-fill logic"
   }
 }
