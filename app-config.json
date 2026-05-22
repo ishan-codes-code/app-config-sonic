@@ -1,17 +1,17 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "message": "We're upgrading 🚧"
   },
   "native": {
-    "version": "2.0.0",
-    "minRequiredVersion": "2.0.0",
+    "version": "3.0.0",
+    "minRequiredVersion": "3.0.0",
     "forceUpdate": false,
-    "updateUrl": "https://expo.dev/artifacts/eas/f91n7BSyUwytW5pibGsuoh.apk"
+    "updateUrl": ""
   },
   "ota": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "force": false,
-    "message": "Optimized the player drawer UX and robust queue auto-fill logic"
+    "message": ""
   }
 }
