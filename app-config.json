@@ -4,10 +4,10 @@
     "message": "We're upgrading 🚧"
   },
   "native": {
-    "version": "3.0.0",
-    "minRequiredVersion": "3.0.0",
-    "forceUpdate": true,
-    "updateUrl": "https://expo.dev/artifacts/eas/k8UzkoosUzcnqFqiYDNMpW.apk"
+    "version": "3.1.0",
+    "minRequiredVersion": "3.1.0",
+    "forceUpdate": false,
+    "updateUrl": "https://music-sonic.vercel.app"
   },
   "ota": {
     "version": "3.0.0",
